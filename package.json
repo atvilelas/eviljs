@@ -1,0 +1,23 @@
+{
+  "name": "eviljs",
+  "version": "1.0.0",
+  "description": "A nice eval replacement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atvilelas/eviljs.git"
+  },
+  "keywords": [
+    "evil",
+    "eval"
+  ],
+  "author": "Andre Vilela <atvilelas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atvilelas/eviljs/issues"
+  },
+  "homepage": "https://github.com/atvilelas/eviljs#readme"
+}
